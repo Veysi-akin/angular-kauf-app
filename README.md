@@ -1,3 +1,3 @@
-# angular-kauf-app
+## angular-kauf-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-kauf-app)
+https://angular-kauf-app.stackblitz.io/
